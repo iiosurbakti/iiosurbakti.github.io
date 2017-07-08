@@ -574,4 +574,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 		border-radius: 0;
 		background-color: #f6f6f6;
 	}
+	#team .thumbnail .caption {
+		padding: 0;
+	}
 }
