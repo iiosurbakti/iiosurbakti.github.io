@@ -559,4 +559,16 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #intro .intro-body H1 {
 	font-size: 5em;
 }
+ol.type li {
+    margin-left: 5px;
+    padding: 15px 0;
+}
+img.img-thumbnail.team-img {
+	width: 100%;
+	max-width: 180px;
+	height: auto;
+	border: 0;
+	border-radius: 0;
+	background-color: #f6f6f6;
+}
 }
